@@ -9,6 +9,8 @@ https://g.co/kgs/pqzhJ16
 
 整理所需的資料後使用https://jsonserve.com/
 
-產生新的json網址https://api.jsonservecom/Ke2GQO
+
+產生新的json網址
+https://api.jsonservecom/Ke2GQO
 
 
