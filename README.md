@@ -11,6 +11,6 @@ https://g.co/kgs/pqzhJ16
 
 
 產生新的json網址
-https://api.jsonservecom/Ke2GQO
+[https://api.jsonservecom/Ke2GQO](https://api.jsonserve.com/Ke2GQO)
 
 
